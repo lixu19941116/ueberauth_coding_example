@@ -1,6 +1,10 @@
-# UeberauthCodingExample
+# Überauth Coding Example
 
-To start your Phoenix server:
+The project has been setup to run on Heroku can can be found at [ueberauth-coding-example.herokuapp.com](https://ueberauth-coding-example.herokuapp.com).
+
+In this example we'll use Coding ([ueberauth_coding](https://github.com/lixu19941116/ueberauth_coding)) strategy.
+
+## To start your Phoenix server:
 
   * Install dependencies with `mix deps.get`
   * Create and migrate your database with `mix ecto.create && mix ecto.migrate`
